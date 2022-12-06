@@ -33,5 +33,7 @@ Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green
 <img align="left" alt="Bash" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
-<img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" />
-<br />
+
+## 📺 Latest YouTube Videos
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@bazil_s?sub_confirmation=1)
