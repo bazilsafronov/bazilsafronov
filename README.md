@@ -14,3 +14,4 @@ Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green
       <a href="https://github.com/bazilsafronov?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   <img src="https://readme-typing-svg.demolab.com/?lines=Subscribe%20to%20me%20in%20social%20network;&font=Roboto%20Code&center=true&width=440&height=45&color=8a5cf7&vCenter=true&pause=2000&size=22"/></a>
