@@ -31,10 +31,10 @@ Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green
 <img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Bash" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img align="left" alt="NodeJS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" />
+<img align="left" alt="Vim" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img align="left" alt="Trello" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" /><br><br><br>
 
-## 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Road to Dev. Part 2. Мой первый сайт и несколько советов по обучению](https://ytcards.demolab.com/?id=HmuR9okeI0M&title=Road+to+Dev.+Part+2.+%D0%9C%D0%BE%D0%B9+%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9+%D1%81%D0%B0%D0%B9%D1%82+%D0%B8+%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8E&lang=en&timestamp=1658057097&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Road to Dev. Part 2. Мой первый сайт и несколько советов по обучению")](https://www.youtube.com/watch?v=HmuR9okeI0M)
 [![Road To Dev. Хочу Стать Разработчиком. Часть 1](https://ytcards.demolab.com/?id=u6T2-bO2fCU&title=Road+To+Dev.+%D0%A5%D0%BE%D1%87%D1%83+%D0%A1%D1%82%D0%B0%D1%82%D1%8C+%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%BE%D0%BC.+%D0%A7%D0%B0%D1%81%D1%82%D1%8C+1&lang=en&timestamp=1652098133&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Road To Dev. Хочу Стать Разработчиком. Часть 1")](https://www.youtube.com/watch?v=u6T2-bO2fCU)
