@@ -13,10 +13,12 @@ Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bazilsafronov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/bazilsafronov?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bazilsafronov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://github.com/bazilsafronov">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
    </p>
    <img src="https://readme-typing-svg.demolab.com/?lines=Subscribe%20to%20me%20in%20social%20network;&font=Roboto%20Code&center=true&width=440&height=45&color=8a5cf7&vCenter=true&pause=2000&size=22"/></a>
 
-### 🧰 What tools && languages do I use?
+## <p align="center">What tools && languages do I use?</p>
 <img align="left" alt="HTML" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="48px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
