@@ -2,7 +2,7 @@
 
 **`Just a green man (Not a Developer/ Not a Creator)`**
 
-Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green person like me can write and program cool web applications. It's never too late to learn, because I'm already 9000 years old, so if I could, then you can too!
+Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green person like me can write and program cool web applications. 
 
    <p align="left">
       <a href="https://www.youtube.com/@bazil_s?sub_confirmation=1">
