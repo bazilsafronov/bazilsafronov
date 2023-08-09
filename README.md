@@ -1,4 +1,4 @@
-# <img src="https://www.svgrepo.com/show/285222/alien.svg" height="64"> Bazil Safronov
+# <img src="https://www.svgrepo.com/show/285222/alien.svg" height="48"> Bazil Safronov
 
 **`Just a green man (Not a Developer/ Not a Creator)`**
 
