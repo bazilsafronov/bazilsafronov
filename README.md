@@ -5,14 +5,6 @@
 Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green person like me can write and program cool web applications. 
 
    <p align="left">
-      <a href="https://www.youtube.com/@bazil_s?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC_YqmN7PCpCFp2WXhQ_bPZw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@bazil_s">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC_YqmN7PCpCFp2WXhQ_bPZw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/bazilsafronov?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bazilsafronov?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/bazilsafronov?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/bazilsafronov?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://github.com/bazilsafronov">
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
    </p>
