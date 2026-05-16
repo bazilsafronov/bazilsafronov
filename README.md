@@ -1,8 +1,8 @@
-# <img src="https://www.svgrepo.com/show/285222/alien.svg" height="48"> Bazil Safronov
+# <img src="https://www.svgrepo.com/show/285222/alien.svg" height="48"> Vasily Safronov
 
 **`Just a green man (Not a Developer/ Not a Creator)`**
 
-Hey! I'm Bazil and I came to planet Earth to prove to everyone that even a green person like me can write and program cool web applications. 
+Hey! I'm Vasily and I came to planet Earth to prove to everyone that even a green person like me can write and program cool web applications. 
 
    <p align="left">
    <a href="https://github.com/bazilsafronov">
